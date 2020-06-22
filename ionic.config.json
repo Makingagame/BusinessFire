@@ -1,0 +1,7 @@
+{
+  "name": "BusinessFire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
